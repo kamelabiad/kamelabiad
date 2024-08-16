@@ -22,16 +22,13 @@ I'm a Senior Web Developer with extensive experience in creating and maintaining
 - **Databases**:
   - SQL Server
   - MySQL
-  - SQLite
 - **Tools & Platforms**:
-  - Git, GitHub, GitLab
-  - Docker
+  - Git, GitHub
   - Visual Studio, Visual Studio Code
   - Azure DevOps, CI/CD
   - Postman, Swagger
 - **Other Skills**:
   - Agile & Scrum Methodologies
-  - Unit Testing, TDD
   - Software Architecture & Design Patterns
 
 
