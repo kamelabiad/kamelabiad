@@ -38,12 +38,7 @@ I'm a Senior Web Developer with extensive experience in creating and maintaining
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-
-## 🌱 Current Learning & Future Goals
-
-I'm currently exploring cloud computing services (Azure, AWS) and diving deeper into microservices architecture. My goal is to further enhance my skills in DevOps practices and cloud-native development.
-
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kamelabiad/)
+- Email: [kamel.abiad@gmail.com](mailto:kamel.abiad@gmail.com)
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on something exciting!
