@@ -25,7 +25,6 @@ I'm a Senior Web Developer with extensive experience in creating and maintaining
 - **Tools & Platforms**:
   - Git, GitHub
   - Visual Studio, Visual Studio Code
-  - Azure DevOps, CI/CD
   - Postman, Swagger
 - **Other Skills**:
   - Agile & Scrum Methodologies
