@@ -36,7 +36,7 @@ I'm a Senior Web Developer with extensive experience in creating and maintaining
 
 ## 📈 GitHub Stats
 
-![Kamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Kamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamelabiad&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
