@@ -34,9 +34,7 @@ I'm a Senior Web Developer with extensive experience in creating and maintaining
   - Unit Testing, TDD
   - Software Architecture & Design Patterns
 
-## 📈 GitHub Stats
 
-![Kamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamelabiad&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
