@@ -38,7 +38,7 @@ I'm a Senior Web Developer with extensive experience in creating and maintaining
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kamelabiad/)
+- LinkedIn: [Kamel Abiad](https://www.linkedin.com/in/kamelabiad/)
 - Email: [kamel.abiad@gmail.com](mailto:kamel.abiad@gmail.com)
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on something exciting!
