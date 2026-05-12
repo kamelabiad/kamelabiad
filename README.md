@@ -93,25 +93,6 @@ I'm passionate about software architecture, AI engineering, scalable systems, an
 - Agile & Scrum Methodologies
 - Technical Leadership & Mentoring
 
----
-
-# 🌟 Selected Projects
-
-## aiMosaic
-Enterprise AI-powered RAG platform enabling organizations to securely search and interact with documents using natural language queries.
-
-### Features
-- Semantic & hybrid search
-- OCR document processing
-- Streaming AI responses
-- Vector embeddings
-- Citation/source tracking
-- Queue-based indexing pipelines
-- Enterprise-grade permissions & security
-
-### Technologies
-.NET Core, React, Azure OpenAI, Milvus, Redis, Azure Functions, SQL Server
-
 
 # 📫 Contact
 
