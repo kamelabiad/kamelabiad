@@ -4,7 +4,7 @@ Lead Software Engineer specializing in AI-powered cloud platforms, scalable ente
 
 I have 10+ years of experience designing, building, and leading enterprise-grade software solutions across AI systems, workflow platforms, analytics applications, and learning management systems. My expertise spans cloud-native architecture, AI-powered search systems, distributed applications, and scalable backend/frontend development.
 
-Recently, I led the development of **aiMosaic**, an enterprise AI-powered Retrieval-Augmented Generation (RAG) platform built using Azure OpenAI, Milvus Vector Database, Azure Functions, Redis Cache, and modern Azure cloud infrastructure. The platform supports semantic search, OCR, hybrid search, streaming AI responses, vector embeddings, and intelligent document indexing across 100k+ documents.
+Recently, I led the development of an enterprise AI-powered Retrieval-Augmented Generation (RAG) platform built using Azure OpenAI, Milvus Vector Database, Azure Functions, Redis Cache, and modern Azure cloud infrastructure. The platform supports semantic search, OCR, hybrid search, streaming AI responses, vector embeddings, and intelligent document indexing across 100k+ documents.
 
 I'm passionate about software architecture, AI engineering, scalable systems, and leveraging modern AI-assisted development workflows to accelerate innovation and delivery.
 
